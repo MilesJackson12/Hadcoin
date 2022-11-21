@@ -1,0 +1,2 @@
+# Hadcoin
+ A mock cryptocurrency
